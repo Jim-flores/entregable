@@ -1,0 +1,32 @@
+.App {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+  width: 100%;
+  height: 100vh; 
+}
+.card {
+  background-color: white;
+  padding: 20px;
+  width: 500px;
+  position: relative;
+}
+.card h1 {
+  text-align: left;
+  
+}
+.card h2 {
+  margin-left: 8px;
+  text-align: right;
+  font-size: 0.9rem;
+}
+.card p {
+  text-align: right;
+}
+.mensaje {
+  display: flex;
+}
+.boton {
+  text-align: end;
+}
